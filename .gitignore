@@ -1,0 +1,6 @@
+.vscode
+bazel-tpl
+bazel-bin
+bazel-out
+bazel-light-thread-pool
+bazel-testlogs
